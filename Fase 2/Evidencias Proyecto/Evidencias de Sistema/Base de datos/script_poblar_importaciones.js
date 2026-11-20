@@ -1,5 +1,5 @@
 /**
- * Simula la importación de una cartera Excel utilizando
+ * Simular la importación de una cartera Excel utilizando
  * el importador real de CarteraX.
  *
  * Los datos se almacenan en una base de demostración
