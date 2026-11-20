@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "buried-raster",
+        "value": "*",
+        "files": [
+          "presentacion/index.html"
+        ],
+        "createdAt": "2026-11-20T01:35:58.162Z",
+        "reason": "Claude: demo slide carousel crossfades three screenshots; hidden ones are at opacity 0 by design and become visible in turn"
+      }
+    ]
+  }
+}
